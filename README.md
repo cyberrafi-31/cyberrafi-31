@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**cyberrafi-31/cyberrafi-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cyber-king-rafi/cyber-king-rafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
